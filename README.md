@@ -2,7 +2,7 @@
 
 > Unofficial Trello Desktop app
 
-[![Trello Desktop](https://github.com/danielchatfield/trello-desktop/blob/master/media/screenshot.png?raw=true)](https://github.com/danielchatfield/trello-desktop/releases/latest)
+[![Trello Desktop](https://github.com/danielchatfield/trello-desktop/blob/master/media/screenshot.png?raw=true)](https://github.com/zaffron/trello-desktop/releases/latest)
 
 *OS X 10.8+, Windows 7+ & Linux are supported.*
 
@@ -10,11 +10,11 @@
 
 ### OS X
 
-[**Download**](https://github.com/danielchatfield/trello-desktop/releases/latest), unzip, and move `Trello.app` to the `/Applications` directory.
+[**Download**](https://github.com/zaffron/trello-desktop/releases/latest), unzip, and move `Trello.app` to the `/Applications` directory.
 
 ### Linux
 
-[**Download**](https://github.com/danielchatfield/trello-desktop/releases/latest) and unzip to some location.
+[**Download**](https://github.com/zaffron/trello-desktop/releases/latest) and unzip to some location.
 
 To add a shortcut to the app, create a file in `~/.local/share/applications` called `trello.desktop` with the following contents:
 
@@ -29,7 +29,7 @@ Icon=/full/path/to/folder/Trello/resources/app/static/Icon.png
 
 ### Windows
 
-[**Download**](https://github.com/danielchatfield/trello-desktop/releases/latest) and unzip to some location.
+[**Download**](https://github.com/zaffron/trello-desktop/releases/latest) and unzip to some location.
 
 
 ## Dev
